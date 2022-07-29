@@ -67,4 +67,4 @@
 
 ### 💻 Source Code
 
-- 🔗 [Chapter 1 - Intro to MERN](https://youtu.be/H-9l-gTq-C4)
+- 🔗 [Chapter 1 - Intro to MERN](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_01)
