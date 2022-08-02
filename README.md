@@ -52,9 +52,18 @@
 - 🔗 [Official Site for React.js](https://reactjs.org)
 - 🔗 [Official Site for Node.js](https://nodejs.org/)
 
+### 📚 Middleware References
+- 🔗 [Express.js: Using Middleware](https://expressjs.com/en/guide/using-middleware.html)
+- 🔗 [cookie-parser](https://mongodb.com)
+- 🔗 [cors](https://mongodb.com)
+
 ### 📚 React Router References
 - 🔗 [Official Site for React Router](https://reactrouter.com/docs/en/v6)
 - 🔗 [React Router v6 Tutorial](https://github.com/gitdagray/react_router_v6)
+
+### 📚 Other Project Dependencies
+- 🔗 [date-fns](https://www.npmjs.com/package/date-fns)
+- 🔗 [uuid](https://www.npmjs.com/package/uuid)
 
 ### ⚙ VS Code Extensions I Use:
 
@@ -68,3 +77,4 @@
 ### 💻 Source Code
 
 - 🔗 [Chapter 1 - Intro to MERN](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_01)
+- 🔗 [Chapter 2 - MERN Middleware](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_02)
