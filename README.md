@@ -64,11 +64,13 @@
 ### 📚 Other Project Dependencies
 - 🔗 [date-fns](https://www.npmjs.com/package/date-fns)
 - 🔗 [uuid](https://www.npmjs.com/package/uuid)
+- 🔗 [dotenv](https://www.npmjs.com/package/dotenv)
+- 🔗 [MongooseJS](https://mongoosejs.com/)
+- 🔗 [mongoose-sequence](https://www.npmjs.com/package/mongoose-sequence)
 
 ### ⚙ VS Code Extensions I Use:
 
 - 🔗 [ES7 React JS Snippets Extension](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-- 🔗 [Prettier VS Code Extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - 🔗 [vscode-icons VS Code Extension](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - 🔗 [Github Themes VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
@@ -78,3 +80,4 @@
 
 - 🔗 [Chapter 1 - Intro to MERN](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_01)
 - 🔗 [Chapter 2 - MERN Middleware](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_02)
+- 🔗 [Chapter 3 - MERN MongoDB](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_03)
