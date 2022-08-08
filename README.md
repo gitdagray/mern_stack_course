@@ -67,6 +67,8 @@
 - 🔗 [dotenv](https://www.npmjs.com/package/dotenv)
 - 🔗 [MongooseJS](https://mongoosejs.com/)
 - 🔗 [mongoose-sequence](https://www.npmjs.com/package/mongoose-sequence)
+- 🔗 [express-async-handler](https://www.npmjs.com/package/express-async-handler)
+- 🔗 [bcrypt](https://www.npmjs.com/package/bcrypt)
 
 ### ⚙ VS Code Extensions I Use:
 
@@ -81,3 +83,4 @@
 - 🔗 [Chapter 1 - Intro to MERN](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_01)
 - 🔗 [Chapter 2 - MERN Middleware](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_02)
 - 🔗 [Chapter 3 - MERN MongoDB](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_03)
+- 🔗 [Chapter 4 - MERN Controllers](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_04)
