@@ -61,6 +61,7 @@
 - 🔗 [React Router v6 Tutorial](https://github.com/gitdagray/react_router_v6)
 
 ### 📚 Other React Dependencies
+- 🔗 [Redux Toolkit](https://redux-toolkit.js.org/)
 - 🔗 [FontAwesome Icons](https://fontawesome.com/docs/web/use-with/react/)
 
 ### 📚 Other Node.js REST API Dependencies
@@ -85,3 +86,4 @@
 - 🔗 [Chapter 3 - MERN MongoDB](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_03)
 - 🔗 [Chapter 4 - MERN Controllers](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_04)
 - 🔗 [Chapter 5 - MERN React](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_05-frontend)
+- 🔗 [Chapter 6 - MERN Redux & RTK Query](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_05-frontend)
