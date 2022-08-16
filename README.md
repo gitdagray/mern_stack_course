@@ -86,4 +86,4 @@
 - 🔗 [Chapter 3 - MERN MongoDB](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_03)
 - 🔗 [Chapter 4 - MERN Controllers](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_04)
 - 🔗 [Chapter 5 - MERN React](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_05-frontend)
-- 🔗 [Chapter 6 - MERN Redux & RTK Query](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_05-frontend)
+- 🔗 [Chapter 6 - MERN Redux & RTK Query](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_06-frontend)
