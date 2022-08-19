@@ -73,6 +73,10 @@
 - 🔗 [express-async-handler](https://www.npmjs.com/package/express-async-handler)
 - 🔗 [bcrypt](https://www.npmjs.com/package/bcrypt)
 
+### ⚙ Tools:
+- 🔗 [React Dev Tools Extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- 🔗 [Redux Devtools](https://github.com/reduxjs/redux-devtools)
+
 ### ⚙ VS Code Extensions I Use:
 - 🔗 [ES7 React JS Snippets Extension](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - 🔗 [vscode-icons VS Code Extension](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
@@ -87,3 +91,4 @@
 - 🔗 [Chapter 4 - MERN Controllers](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_04)
 - 🔗 [Chapter 5 - MERN React](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_05-frontend)
 - 🔗 [Chapter 6 - MERN Redux & RTK Query](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_06-frontend)
+- 🔗 [Chapter 7 - MERN Forms with Redux & RTK Query](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_07-frontend)
