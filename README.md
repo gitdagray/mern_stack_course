@@ -53,8 +53,9 @@
 
 ### 📚 Middleware References
 - 🔗 [Express.js: Using Middleware](https://expressjs.com/en/guide/using-middleware.html)
-- 🔗 [cookie-parser](https://mongodb.com)
-- 🔗 [cors](https://mongodb.com)
+- 🔗 [cookie-parser](https://www.npmjs.com/package/cookie-parser)
+- 🔗 [cors](https://www.npmjs.com/package/cors)
+- 🔗 [express-rate-limiter](https://www.npmjs.com/package/express-rate-limiter)
 
 ### 📚 React Router References
 - 🔗 [Official Site for React Router](https://reactrouter.com/docs/en/v6)
@@ -72,6 +73,7 @@
 - 🔗 [mongoose-sequence](https://www.npmjs.com/package/mongoose-sequence)
 - 🔗 [express-async-handler](https://www.npmjs.com/package/express-async-handler)
 - 🔗 [bcrypt](https://www.npmjs.com/package/bcrypt)
+- 🔗 [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 
 ### ⚙ Tools:
 - 🔗 [React Dev Tools Extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
@@ -92,3 +94,4 @@
 - 🔗 [Chapter 5 - MERN React](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_05-frontend)
 - 🔗 [Chapter 6 - MERN Redux & RTK Query](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_06-frontend)
 - 🔗 [Chapter 7 - MERN Forms with Redux & RTK Query](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_07-frontend)
+- 🔗 [Chapter 8 - MERN Authentication & Authorization](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_08-backend)
