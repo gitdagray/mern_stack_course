@@ -95,3 +95,4 @@
 - 🔗 [Chapter 6 - MERN Redux & RTK Query](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_06-frontend)
 - 🔗 [Chapter 7 - MERN Forms with Redux & RTK Query](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_07-frontend)
 - 🔗 [Chapter 8 - MERN Authentication & Authorization](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_08-backend)
+- 🔗 [Chapter 9 - MERN Login Authentication in React with Redux](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_09-frontend)
