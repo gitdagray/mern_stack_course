@@ -96,3 +96,4 @@
 - 🔗 [Chapter 7 - MERN Forms with Redux & RTK Query](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_07-frontend)
 - 🔗 [Chapter 8 - MERN Authentication & Authorization](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_08-backend)
 - 🔗 [Chapter 9 - MERN Login Authentication in React with Redux](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_09-frontend)
+- 🔗 [Chapter 10 - MERN JWT Authorization & Persisting Login State on Refresh](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_10-frontend)
