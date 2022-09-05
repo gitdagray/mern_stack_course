@@ -64,6 +64,7 @@
 ### 📚 Other React Dependencies
 - 🔗 [Redux Toolkit](https://redux-toolkit.js.org/)
 - 🔗 [FontAwesome Icons](https://fontawesome.com/docs/web/use-with/react/)
+- 🔗 [React Spinners](https://www.npmjs.com/package/react-spinners)
 
 ### 📚 Other Node.js REST API Dependencies
 - 🔗 [date-fns](https://www.npmjs.com/package/date-fns)
@@ -74,6 +75,7 @@
 - 🔗 [express-async-handler](https://www.npmjs.com/package/express-async-handler)
 - 🔗 [bcrypt](https://www.npmjs.com/package/bcrypt)
 - 🔗 [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- 🔗 [express-async-errors](https://www.npmjs.com/package/express-async-errors)
 
 ### ⚙ Tools:
 - 🔗 [React Dev Tools Extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
@@ -97,3 +99,6 @@
 - 🔗 [Chapter 8 - MERN Authentication & Authorization](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_08-backend)
 - 🔗 [Chapter 9 - MERN Login Authentication in React with Redux](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_09-frontend)
 - 🔗 [Chapter 10 - MERN JWT Authorization & Persisting Login State on Refresh](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_10-frontend)
+- 🔗 [Chapter 11 - MERN User Role-Based Access Control and Permissions](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_11-frontend)
+- 🔗 [Chapter 12 - Pt. 1 - MERN Review & Refactor - Backend Code](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_12-backend)
+- 🔗 [Chapter 12 - Pt. 2 - MERN Review & Refactor - Frontend Code](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_12-frontend)
