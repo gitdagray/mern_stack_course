@@ -65,6 +65,7 @@
 - 🔗 [Redux Toolkit](https://redux-toolkit.js.org/)
 - 🔗 [FontAwesome Icons](https://fontawesome.com/docs/web/use-with/react/)
 - 🔗 [React Spinners](https://www.npmjs.com/package/react-spinners)
+- 🔗 [@fvilers/disable-react-devtools](https://www.npmjs.com/package/@fvilers/disable-react-devtools)
 
 ### 📚 Other Node.js REST API Dependencies
 - 🔗 [date-fns](https://www.npmjs.com/package/date-fns)
@@ -102,3 +103,5 @@
 - 🔗 [Chapter 11 - MERN User Role-Based Access Control and Permissions](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_11-frontend)
 - 🔗 [Chapter 12 - Pt. 1 - MERN Review & Refactor - Backend Code](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_12-backend)
 - 🔗 [Chapter 12 - Pt. 2 - MERN Review & Refactor - Frontend Code](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_12-frontend)
+- 🔗 [Chapter 13 - Pt. 1 - MERN Deployment - Frontend Code](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_13-frontend)
+- 🔗 [Chapter 13 - Pt. 2 - MERN Deployment - Backend Code](https://github.com/gitdagray/mern_stack_course/tree/main/lesson_13-backend)
