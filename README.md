@@ -1,6 +1,6 @@
 # "MERN Stack Course"
 
-### ?? Chapters
+### 13 Chapters
 
 ---
 
