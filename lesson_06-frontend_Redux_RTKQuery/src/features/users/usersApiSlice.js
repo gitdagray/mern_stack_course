@@ -18,7 +18,7 @@ export const usersApiSlice = apiSlice.injectEndpoints({
             keepUnusedDataFor: 5,
             transformResponse: responseData => {
                 const loadedUsers = responseData.map(user => {
-                    user.id = user._id
+                    user.id = user._id // we're using Entity Adapter where the id field takes in id not _id
                     return user
                 });
                 return usersAdapter.setAll(initialState, loadedUsers)

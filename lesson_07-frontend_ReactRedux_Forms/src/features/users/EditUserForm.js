@@ -65,6 +65,7 @@ const EditUserForm = ({ user }) => {
     const onActiveChanged = () => setActive(prev => !prev)
 
     const onSaveUserClicked = async (e) => {
+        // Present 2 cases where the user wants to update the password vs the user doesn't want to update the password
         if (password) {
             await updateUser({ id: user.id, username, password, roles, active })
         } else {

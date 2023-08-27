@@ -9,7 +9,13 @@ const UsersList = () => {
         isSuccess,
         isError,
         error
-    } = useGetUsersQuery(undefined, {
+    } = useGetUsersQuery(undefined, { 
+        // to prevent stale data, refetch the data based on the options below :
+        /*
+            - After 1 min
+            - If we go to another page and then come back to the this page
+            - If the mount or argument changes
+        */
         pollingInterval: 60000,
         refetchOnFocus: true,
         refetchOnMountOrArgChange: true

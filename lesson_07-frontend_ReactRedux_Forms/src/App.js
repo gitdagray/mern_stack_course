@@ -19,6 +19,7 @@ function App() {
         <Route index element={<Public />} />
         <Route path="login" element={<Login />} />
 
+        {/* Wrap the protected routes in Prefetch */}
         <Route element={<Prefetch />}>
           <Route path="dash" element={<DashLayout />}>
 
